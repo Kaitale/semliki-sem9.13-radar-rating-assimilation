@@ -1,0 +1,47 @@
+{
+ "metadata": {
+  "upload_type": "publication",
+  "publication_type": "other",
+  "title": "Radar water-level observations for rating transfer, model diagnosis and forecast error correction in an operational flood forecasting system: the Semliki River, Uganda",
+  "publication_date": "2026-11-24",
+  "creators": [
+   {
+    "name": "Kakooza, Charles",
+    "affiliation": "KAI Water & Energy, Kampala, Uganda"
+   },
+   {
+    "name": "Nafula, Monica",
+    "affiliation": "KAI Water & Energy, Kampala, Uganda"
+   }
+  ],
+  "description": "<p><strong>Study region:</strong> The Semliki River between Lake Edward and Lake Albert on the Uganda–Democratic Republic of the Congo border, at the REWC01 radar water-level sensor (6,298 km²), 8.6 km upstream of the Bweramule gauge, which is the forecast point of the flood forecasting system for Ntoroko District.</p><p><strong>Study focus:</strong> Bweramule has a dynamic stage–discharge rating but no continuous record since September 2025, whereas the REWC01 radar reports every 15 minutes but has neither a rating nor a surveyed datum. The gauge rating was transferred to the radar section with steady HEC-RAS profiles, and the resulting hourly flow record (8 October – 20 November 2026) was used in three ways within the HEC-HMS chain run under HEC-RTS: to diagnose and recalibrate the fast response of the catchment model, to condition the rainfall upstream of the radar on the observed flow, and to correct the forecast at the issue time. Twenty-seven hindcast forecasts, driven by observed rainfall after the issue, compared these forms of updating on the present and the recalibrated model structures.</p><p><strong>New hydrological insights:</strong> The transferred rating passes 107–129 m³ s⁻¹ per metre of stage, compared with 76–105 m³ s⁻¹ at the gauge. Event runoff coefficients at the radar are 3–6 %, and the recessions give a catchment Clark storage coefficient of 15–25 h, against an area-mean 62 h in the model, whose constant loss rates (6–20 mm h⁻¹) are never exceeded by daily rainfall distributed over the day. With the storage shortened and a fast-runoff share of 8 %, the model peaks within an hour of the radar on 9 November (168 against 190 m³ s⁻¹) on unconditioned rainfall; the remaining event-to-event errors follow the satellite rainfall. Conditioning the rainfall within its error reduces the RMSE of the simulated past from 16.1 to 6.4 m³ s⁻¹ on the present model and to 5.5 m³ s⁻¹ on the recalibrated model, but did not improve the 27 hindcast forecasts on either structure. An open-loop model with a single error-correction term, decaying with the e-folding time of its own residuals, performed best: the present structure at lead times of 1–3 days (RMSE 8.6, 11.2 and 12.5 m³ s⁻¹) and the recalibrated structure at 5 and 7 days (12.0 and 12.7 m³ s⁻¹, against 14.6 and 18.0 m³ s⁻¹ for the configuration installed in November 2026). The radar datum, fitted rather than surveyed, leaves an uncertainty of about ±10 m³ s⁻¹ on all flows.</p><p>Package: the paper (PDF), reproduce_paper.ipynb (recomputes Tables 1–6 and the numbers of Section 4 from data_radar.zip). Code MIT; manuscript and data CC BY 4.0. Corresponding author: Monica Nafula, monicanafula@kaiwaterenergy.com.</p>",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+   "Rating curve transfer",
+   "Radar water level",
+   "Data assimilation",
+   "Clark unit hydrograph",
+   "Error correction",
+   "HEC-HMS",
+   "HEC-RTS",
+   "HEC-RAS",
+   "Semliki River",
+   "Uganda"
+  ],
+  "related_identifiers": [
+   {
+    "identifier": "https://github.com/Kaitale/semliki-sem9.13-radar-rating-assimilation",
+    "relation": "isSupplementedBy",
+    "scheme": "url"
+   },
+   {
+    "identifier": "10.5281/zenodo.24367492",
+    "relation": "continues",
+    "scheme": "doi"
+   }
+  ],
+  "language": "eng",
+  "version": "1.0"
+ }
+}

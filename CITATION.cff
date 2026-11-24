@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the paper."
+title: "Radar water-level observations for rating transfer, model diagnosis and forecast error correction in an operational flood forecasting system: the Semliki River, Uganda"
+type: software
+version: "1.0"
+date-released: 2026-11-24
+# doi: to be assigned by Zenodo on publication
+license: [CC-BY-4.0, MIT]
+repository-code: "https://github.com/Kaitale/semliki-sem9.13-radar-rating-assimilation"
+authors:
+  - family-names: "Kakooza"
+    given-names: "Charles"
+    affiliation: "KAI Water & Energy, Kampala, Uganda"
+  - family-names: "Nafula"
+    given-names: "Monica"
+    affiliation: "KAI Water & Energy, Kampala, Uganda"
+    email: "monicanafula@kaiwaterenergy.com"
