@@ -4,7 +4,8 @@ title: "Radar water-level observations for rating transfer, model diagnosis and 
 type: software
 version: "1.0"
 date-released: 2026-11-24
-# doi: to be assigned by Zenodo on publication
+doi: "10.5281/zenodo.24487523"
+url: "https://doi.org/10.5281/zenodo.24487523"
 license: [CC-BY-4.0, MIT]
 repository-code: "https://github.com/Kaitale/semliki-sem9.13-radar-rating-assimilation"
 authors:

@@ -1,6 +1,6 @@
 # Radar water-level observations for rating transfer, model diagnosis and forecast error correction in an operational flood forecasting system: the Semliki River, Uganda
 
-**Kakooza, C. and Nafula, M. (2026).** KAI Water & Energy, Kampala, Uganda. Zenodo DOI: *to be assigned on publication*.
+**Kakooza, C. and Nafula, M. (2026).** KAI Water & Energy, Kampala, Uganda. Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24487523.svg)](https://doi.org/10.5281/zenodo.24487523)
 Corresponding author: Monica Nafula, monicanafula@kaiwaterenergy.com
 
 The paper transfers the dynamic rating of the Bweramule gauge (Kakooza et al., 2026, https://doi.org/10.5281/zenodo.24367492) 8.6 km upstream to the unrated REWC01 radar sensor, uses the hourly radar record to diagnose and recalibrate the fast response of the HEC-HMS model, and compares rainfall conditioning and error correction as forms of forecast updating in the HEC-HMS chain run under HEC-RTS.
@@ -32,4 +32,4 @@ Manuscript, data and figures: CC BY 4.0. Code and notebook code cells: MIT. See 
 
 ## Cite
 
-Kakooza, C., Nafula, M., 2026. Radar water-level observations for rating transfer, model diagnosis and forecast error correction in an operational flood forecasting system: the Semliki River, Uganda. Zenodo. https://doi.org/10.5281/zenodo.[to be assigned]
+Kakooza, C., Nafula, M., 2026. Radar water-level observations for rating transfer, model diagnosis and forecast error correction in an operational flood forecasting system: the Semliki River, Uganda. Zenodo. https://doi.org/10.5281/zenodo.24487523
